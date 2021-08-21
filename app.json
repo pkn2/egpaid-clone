@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "egpaid",
+    "slug": "egpaid",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "egpaid"
+}
